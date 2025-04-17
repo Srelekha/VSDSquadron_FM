@@ -1,0 +1,4 @@
+set_io  tx 14
+set_io  clk 20
+set_io  ir_sensor 3
+set_io  rst 4
